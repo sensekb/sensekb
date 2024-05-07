@@ -15,7 +15,7 @@ I am a skilled professional with a background in Business Analytics and Actuaria
 
 - :telescope: I'm proficient in Python, R, Excel, SQL, Power BI and SAS Viya for data cleaning and transformation, data analytics, data mmedelling and visualisation.
 
-- :zap: I;m looking to work with you as a Business Analyst/ Consultant
+- :zap: I'm looking to work with you as a Business Analyst/ Consultant
 
 - :mailbox: Feel free to reach me at:
   
