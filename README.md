@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨ Welcome to my GitHub portfolio! ✨
+
+I'm an actuarial who is passionate on Business Analytics
+
+This GitHub represents my journey into the world of data, where I aim to leverage my analytical skills to extract valuable insights and drive data-driven business decisions.
+
+
