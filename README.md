@@ -38,5 +38,18 @@ Here are some of my projects
 ### :hammer_and_wrench: Languages and Tools :
 
 <div id="header">
- GitHub <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+
+Programming Languages:  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+Tools: ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![SAS Viya](https://img.shields.io/badge/SAS_Viya-005E8A?style=flat&logo=sas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+
+
+Databases: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+
 </div>
