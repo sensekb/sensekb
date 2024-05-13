@@ -18,10 +18,14 @@ I am a skilled professional with a background in Business Analytics and Actuaria
 - :zap: I'm looking to work with you as a Business Analyst/ Consultant
 
 - :mailbox: Feel free to reach me at:
+
+
+  [![Gmail](https://img.shields.io/badge/Gmail-kboonvisud%40gmail.com-red?logo=gmail&style=flat-square)](mailto:kboonvisud@gmail.com)
+
   
-  [![Linkedin Badge](https://img.shields.io/badge/-kawitsara-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kawitsara)
-  
-  [![Gmail Badge](https://img.shields.io/badge/-kawitsara-red?style=flat&logo=gmail&logoColor=white)](kboonvisud@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawitsara%20Boonvisud-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kawitsara)
+
+
 
 - 🤔 Hobbies: Playing boardgames and puzzles ⚡
 
